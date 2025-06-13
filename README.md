@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-push-notifications](modules/push-notifications)
 - [react-native-address-selection-google-autocomplete](modules/address-selection-autocomplete)
+- [react-native-fingerprint-authentication](modules/fingerprint-authentication)
 
 # Getting started: Frontend
 
